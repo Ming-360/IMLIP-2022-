@@ -16,9 +16,9 @@ The repository contains the corpus data set required by the IMLIP profiling task
 - 每个txt文件中数据格式  
   -  文件名#语料类型#编码# 描述文本
   -  语料类型
-  -   - uyc:维语
-  -   - mnc:蒙语
-  -   - tic:藏语
+    - uyc:维语
+    - mnc:蒙语
+    - tic:藏语
 ### Flickr8k图片及对应的中英文描述数据集获取方式
 [英文数据集见链接](https://pan.baidu.com/s/1LRlQUL1MRipPL4MLOdExzg)
 提取码：s4be
