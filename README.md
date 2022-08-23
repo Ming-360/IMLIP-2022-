@@ -13,10 +13,8 @@ The repository contains the corpus data set required by the IMLIP profiling task
 - chtitrain.xlsx 为训练集对应的藏语语料  
 - chtival.xlsx 为验证集对应的藏语语料  
 ### 数据项解释  
-- 每个excel文件中包含3项数据  
-  - 文件名：图片对应的文件名  
-  - 中文：图片对应的中文描述  
-  - 维文/蒙文/藏文：图片对应的维文/蒙文/藏文描述  
+- 每个txt文件中数据格式  
+  -  文件名#预料类型#编码# 描述文本
 ### 英文数据集获取方式
 [英文数据集见链接](https://pan.baidu.com/s/1LRlQUL1MRipPL4MLOdExzg)
 提取码：s4be
