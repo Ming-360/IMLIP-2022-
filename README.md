@@ -4,14 +4,14 @@ The repository contains the corpus data set required by the IMLIP profiling task
 该数据集由Flickr英文数据集翻译后经人工校对而成  
 ### 文件结构  
 #### 维语语料  
-- train.xlsx 为训练集对应的维语语料  
-- val.xlsx 为验证集对应的维语语料  
+- chuytrain.xlsx 为训练集对应的维语语料  
+- chuyval.xlsx 为验证集对应的维语语料  
 #### 蒙语语料  
-- train.xlsx 为训练集对应的蒙语语料  
-- val.xlsx 为验证集对应的蒙语语料  
+- chmntrain.xlsx 为训练集对应的蒙语语料  
+- chmnval.xlsx 为验证集对应的蒙语语料  
 #### 藏语语料  
-- train.xlsx 为训练集对应的藏语语料  
-- val.xlsx 为验证集对应的藏语语料  
+- chtitrain.xlsx 为训练集对应的藏语语料  
+- chtival.xlsx 为验证集对应的藏语语料  
 ### 数据项解释  
 - 每个excel文件中包含3项数据  
   - 文件名：图片对应的文件名  
