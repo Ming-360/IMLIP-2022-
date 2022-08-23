@@ -1,7 +1,7 @@
 # IMLIP-2022-Image-Caption-evaluation-task
 The repository contains the corpus data set required by the IMLIP profiling task.
 ### 数据集介绍  
-该数据集由Flickr英文数据集翻译后经人工校对而成  
+该数据集由Flickr8k英文数据集翻译后经人工校对而成  
 ### 文件结构  
 #### 维语语料  
 - chuytrain.xlsx 为训练集对应的维语语料  
